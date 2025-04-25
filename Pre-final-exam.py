@@ -2,7 +2,7 @@
 
 #List of students:
 1.
-2.
+2.Sumobay, Christian Paul A.
 3.
 4.
 5.
